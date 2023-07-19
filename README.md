@@ -46,4 +46,4 @@ The weights of the best portfolio indicate that the portfolio should invest 20% 
 
 Credits
 
-This code was written by [your name]. The code is available under the MIT license.
+This code was written by ansantacruz. The code is available under the MIT license.
